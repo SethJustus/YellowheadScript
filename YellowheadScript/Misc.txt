@@ -66,6 +66,7 @@ Season Three Theme: Change, feeling left behind by change
 
 Chrono Event Timeline
 
+// Backstory
 Dunastia becomes the leading city in Alchemy
 Alchemy overtakes Witchcraft as the dominate magic system
 Dunastia becomes the most powerful city
@@ -76,6 +77,10 @@ Phylax is asked to join the council
 Phylax is burned alive along with his wife and child, marking the start to a war on alchemy
 The council discovers that Phylax is immortal
 The alchemists are all but destroyed, and Dunastia becomes the weakest of the cities
+// End Backstory
+// Start of Season 1
+
+// Fulk fails to protect or defend his ward is some terrible way
 Fulk makes a political mistake
 The council finds Fulk at his home
 Fulk gets assigned to the Dunastia prison district
@@ -106,11 +111,23 @@ Brightest night celebration
 Atlas kills his mom, and Rosies dad
 Fulk fights, and defeats Atlas, but spares his life
 Fulk kills the Witch
-Fulk takes Atlas and Rosie out of the town
-Rosie is adopted
-Atlas becomes a vigilante of sorts
+Fulk fights the Bargest
+Rosie escapes the district
+Fulk carries Atlas out of the district
+Rosie reaches the orphanage
+// End of season 1
+Atlas wakes up in Fulks camp
+Rosie has a nightmare at the orphanage
+Teddy comes to life
+Rosie leaves the orphanage with a group of monster hunters
+Fulk, Atlas, and the monster hunters meet up on a job
+Fulk allows Atlas to leave on his own
 Atlas decides to become lord of Dunastia
-Phylax escapes
+Phylax escapes torture
 Phylax defeats Atlas and becomes lord of Dunastia
 Atlas and Fulk leave Dunastia
- 
+Chloe becomes an alchemist
+Fulk challenges Atlas with the dagger
+Atlas kills Fulk and gets the eye of challenge
+Atlas follows Rosie to the Strix Eyrie
+The alchemists + Rosie + the strix jump Atlas
