@@ -2,16 +2,16 @@
 Chrono Event Timeline
 
 // Backstory
-Dunastia becomes the leading city in Alchemy
+Dunamis becomes the leading city in Alchemy
 Alchemy overtakes Witchcraft as the dominate magic system
-Dunastia becomes the most powerful city
+Dunamis becomes the most powerful city
 A man called (Phylax) Hound of Alchemy is constructed from the bones of wizards
-Witches from the other houses scheme to destroy Dunastia
+Witches from the other houses scheme to destroy Dunamis
 The Council of Witchcraft is formed
 Phylax is asked to join the council
 Phylax is burned alive along with his wife and child, marking the start to a war on alchemy
 The council discovers that Phylax is immortal
-The alchemists are all but destroyed, and Dunastia becomes the weakest of the cities
+The alchemists are all but destroyed, and Dunamis becomes the weakest of the cities
 // End Backstory
 
 // Start of Season 1
@@ -59,13 +59,13 @@ Miranda runs from the camp
 // Alik fails to protect or defend his ward is some terrible way
 Alik makes a political mistake
 The council finds Alik at his home
-Alik gets assigned to the Dunastia prison district
+Alik gets assigned to the Dunamis prison district
 //Alik meets the witch
 Alik sees the Bargest for the first time
 Time Jump
 Bargest attack
 Four young friends are introduced. Chloe(14), Rose(12), and Brothers Atlas(14) and Zenon(9)
-Zenon mentions people whispering about the restoration of Dunastia
+Zenon mentions people whispering about the restoration of Dunamis
 Chloe says people are just shaken after the Bargest
 A Milita is officially formed to fight the Bargest
 ** Man implies Alik could kill the Bargest if he wanted too **
@@ -98,10 +98,10 @@ Teddy comes to life
 Rosie leaves the orphanage with a group of monster hunters
 Alik, Atlas, and the monster hunters meet up on a job
 Alik allows Atlas to leave on his own
-Atlas decides to become lord of Dunastia
+Atlas decides to become lord of Dunamis
 Phylax escapes torture
-Phylax defeats Atlas and becomes lord of Dunastia
-Atlas and Alik leave Dunastia
+Phylax defeats Atlas and becomes lord of Dunamis
+Atlas and Alik leave Dunamis
 Chloe becomes an alchemist
 Alik challenges Atlas with the dagger
 Atlas kills Alik and gets the eye of challenge
