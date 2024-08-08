@@ -19,7 +19,7 @@ each city state has a Grand Witch and a Grand Knight
 The Grand Witch of Brandburn is
 a fire witch as is tradition in brandburn
 The Grand Knight of Brandburn is
-Aliks father, uses a clockwork suit of armor
+Aliks father, uses a clockwork suit of armor and sword
 The Grand Witch of Gallia is Evve
 Evve specializes in living magic, she is known as the queen of moths
 The Grand Knight of Gallia is
@@ -27,7 +27,6 @@ The head of a hammer pair, paired with his son
 The Grand Witch of Dunamis is 
 a witch with an affinity for the sea, sister to the witch who holds the atonement district
 The Grand Knight of Dunamis is 
-A 
 
 
  There are 2 low magic systems, Witchcraft and alchemy, although sometimes engineering is seen as a type of alchemy.
