@@ -7,7 +7,7 @@ Alchemy overtakes Witchcraft as the dominate magic system
 Dunamis becomes the most powerful city
 A man called (Phylax) Hound of Alchemy is constructed from the bones of wizards
 Witches from the other houses scheme to destroy Dunamis
-The Council of Witchcraft is formed
+The Council of Witches and Men is formed
 Phylax is asked to join the council
 Phylax is burned alive along with his wife and child, marking the start to a war on alchemy
 The council discovers that Phylax is immortal
@@ -17,7 +17,7 @@ The alchemists are all but destroyed, and Dunamis becomes the weakest of the cit
 // Start of Season 1
 
 // Leon Timeline
-** Leon is introduced as a selfish boy of 15. He lives with his mother, father, and 7 siblings. **
+** Leon is introduced as a selfish boy of 15. He lives with his mother, father, and 7 siblings in Gallia. **
 ** Leon resents his parents, and siblings thinking they are holding him back from the world **
 Leons Father tells him to live for others
 Leons town is attacked by a monster
