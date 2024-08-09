@@ -1,6 +1,8 @@
 Everything moves in the forgotten city,
-Blocks rotate, buildings rise, grow, and fall
-Blue and Purple lights flicker inbetween the buildings
+Blocks rotate, buildings rise, rotate, grow, and fall. 
+Buildings are always moving to touch another building nearby like neurons in a brain.
+Blue and Purple lights flicker inbetween the buildings.
+Once a flash of light pulses between two buildings, the signal is pulsed swiftly back to the center, building by building .
 Multiple layers of city lay on top of one another, held up with thick columns
-buildings grow downwards from higher layers and nearly touch the buildings on the layer below
+buildings grow downwards from higher layers, nearly touching the buildings on the layer below
 Layers rotate independently of one another, and city blocks rearange themselves within the layers
