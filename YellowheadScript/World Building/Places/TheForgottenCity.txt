@@ -1,0 +1,6 @@
+Everything moves in the forgotten city,
+Blocks rotate, buildings rise, grow, and fall
+Blue and Purple lights flicker inbetween the buildings
+Multiple layers of city lay on top of one another, held up with thick columns
+buildings grow downwards from higher layers and nearly touch the buildings on the layer below
+Layers rotate independently of one another, and city blocks rearange themselves within the layers
