@@ -1,5 +1,21 @@
 Episode 1 outline
 
+/*
+	Episode 1 needs to:
+	introduce Alik, and move him to Dunamis. 
+	introduce the atonement district and the bargest.
+	introduce the kids, and their relationships with each other.
+	introduce leon and his desire to leave home.
+	introduce zenon's desire to be strong, and way that complicated his releationship with Atlas and his Mother.
+	introduce Aliks new role in the atonement district.
+	setup zenon to be the main characer
+	setup aliks conflict of wanting to make the district a better place, but also wanting to leave.
+	leons village being attacked by monsters, and saved by monster hunters.
+	leon leaving with the monster hunters
+*/
+
+
+
 ** Episode starts AFTER aliks sin **
 // I don't really want to start the first episode on Alik
 // I want the audience to think that Zenon is the main character, before transfering that role to Atlas
@@ -106,3 +122,14 @@ Alik pulls Zenon to his feet
 "Atlas isn't afraid when you're here"
 Alik walks back to the man he was sparring with before
 Atlas: "That was our best try yet!"
+
+Leons village is attacked
+The village is saved by a group of monster hunters
+Leon begs to go with them as they are getting ready to leave
+The leader of the group says yes, and they leave
+
+
+** EXT. DUSK **
+@ Ominous music playing
+@ A slow zoom-out shot of a strange house outside the barrier, with the atonement district sprawling below and final city lighting up the sky
+@ Role Credits
