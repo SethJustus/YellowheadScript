@@ -14,8 +14,6 @@ Episode 1 outline
 	leon leaving with the monster hunters
 */
 
-
-
 ** Episode starts AFTER aliks sin **
 // I don't really want to start the first episode on Alik
 // I want the audience to think that Zenon is the main character, before transfering that role to Atlas
@@ -55,16 +53,20 @@ Bargest attack
 
 ** Time jump 5-10 years **
 
-** It is a beaufiful day, in mid spring. EXT. Forest**
+** It is a beaufiful day, in late spring. EXT. district outskirts **
+@ A wide uncentered shot from above a grassy field on the Right foreground at the edge of thick woods on the left background
+@ On the right, three kids are sword fighting with sticks in the field, while a fourth sits in the left shade a few yards off watching
 ** Zenon is introduced as a scrawny, kindhearted boy of 15 **
 ** Atlas is introduced as a physically capable, tough boy of 14 **
 ** Chloe is intoduced as a Wiry, Witty girl of 16 **
+@ Closer shots from over Zenons shoulder, and as he loses the fight
 Zenon, Atlas, and Chloe are sword fighting with sticks, Zenon is losing
 Zenon loses the game, and Atlas and Chloe continue to duel
 ** Rosie is introduced as a small, kind girl of 13 **
+Rosie is sitting on a log in the shade of the trees watching the fight
 Rosie tells Zenon that they aren't like Atlas or Chloe
 Rosie: "We aren't the fighters"
-Zenon: "Why counldn't we be? I have made a lot of progress with the knight!"
+Zenon: "Why couldn't we be? I have made a lot of progress with the knight!"
 Rosie: "Aren't you and Atlas going to try again?"
 Rosie: "Are you nervous?"
 Zenon: "*Kicks dirt* Why aren't they ever afraid?"
