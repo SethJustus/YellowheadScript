@@ -131,6 +131,9 @@ Atlas: "That was our best try yet!"
 // The audience can also learn a lot about the world from these scenes
 // I want to show that Rosie is the only one of the kids who is truly at peace with herself, and this is because of her dad
 // her dad is a good person, who pretends to be hard to survive in the district
+// Rosies dad should be a viewer favorite, despite only being in scenes with Rosie
+// When Atlas kills him, it should be a huge, almost unforgivable mistake on his part
+// This will test the limits of Rosies forgiveness later on
 
 Leons village is attacked
 The village is saved by a group of monster hunters
