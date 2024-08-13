@@ -1,10 +1,3 @@
-Alik fails his ward
-The council assigns Alik to the atonement district
-Summers brightest night
-Alik enters the Dunamis Atonement District
-// This is a traumatic and terrifying night for Alik
-Summers darkest night
-Time jump
 // Introduce the kids on brightest night
 Brightest night celebration
 Alik is scoffed and scorned as he leaves the town in his armor
@@ -16,6 +9,8 @@ Chloe Atlas Zenon duel while Rosie draws
 Chloe has a lesson with the old alchemist
 Atlas and Zenon train with the sword master
 Alik drinks and watches the training
+Zenon encounters his mom
+Atlas and Zenon have a heart to heart conversation
 Rosie talks with her dad
 
 Leon and his younger brother talk while doing farm work
