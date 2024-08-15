@@ -40,15 +40,47 @@ The knight doesn't react, but continues his laborious march out of town.
 Slowly the crowd quiets, and the only sound is the knights footfalls.
 When he steps past the edge of the square, the crown erupts in cheers and applause.
 People start moving towards tables and barrels, and the square is filled with the sounds of laughter and conversation.
+// Not sure about this conversation, feels a bit expositiony
 Atlas: (somberly) I don't really get it, its not like he could protect us anyways, he can barely walk.
 Zenon: (nods)
 Atlas: (laughing) Theres just no way he can fight, hell, Rosie could probably take him!
 Rosie: Dad says the armor is clockwork, and he just never turns it on for some reason. 
-Chloe: (snorts) They would never send a knight with clockwork armor HERE, it is way too valuable.
-Chloe: If the armor is clockwork, then it is clearly broken. But it definitely isn't.
+Chloe: (scoffs) No it isn't, armor like that is just way to valuable
 Atlas: (Nods agreement)
 Rosie: (defensive) You can hear it winding up when he walks! Right Zenon?
-Zenon: Maybe, but there is no way to know for sure. Lets just enjoy the celebration.
+Zenon: Maybe, but there is no way to know for sure.
 
+/*
+	Notes so far: my pacing is WAY to fast, dialogue is clunky and contrived, the actual early events are boring.
+*/
+
+INT. Rosies House. Late Autumn, Early Night
+// First interaction with Rosies Dad
+
+// Brightest night roof scene
+EXT. Rosies Roof. Late Autumn, Night
+The four kids are sitting side by side on a roof looking up at the sky.
 Like a moon so large it nearly fills the entire sky, a great glowing city is floating in the atmosephere. 
 If you look close enough you can barely see faint lines like roadways, and shapes like towers and buildings.
+The light from the city is so bright that it fully illuminates the night.
+The city is slowly rotating, and showing more of the bright side by the minute.
+For a long moment, they just watch, mesmerized by the sight.
+The first sliver of the dark side begins to show again.
+Rosie: (softly) I hope none of us are chosen this time
+Zenon: (smiles comfortingly) I'm sure we won't be Rosie
+Chloe: (dead serious) You know, you can NEVER be sure.
+Atlas: * throws hands up *(agitated) read the f-ing room Chloe
+Chloe: (in a demeaning tone) Mr. A. says, ~scientifically~ we are all lucky to have made it past the age of 12
+Rosie: * hangs head *(dejected)(under her breath) im twelve
+Atlas: * standing * (pissed) "ScIeNtTfIcAlLy I'm about to push you off the roof"
+Chloe: * jumps up * "You f-ing won't"
+Zenon: (harsh) "Atlas".
+Atlas: * makes a frusterated expression at Zenon but backs down *
+Chloe: (flustered) * remains standing *
+Zenon: * standing * "I know we are all nervous, but lets try to get some sleep."
+Zenon: * helps rosie up * "We will wake up fine in the morning. just like always"
+/*
+	Slightly better than the dialogue yesterday.
+*/
+
+// Darkest night sequence
