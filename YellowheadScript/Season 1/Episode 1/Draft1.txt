@@ -57,7 +57,6 @@ Zenon: Maybe, but there is no way to know for sure.
 INT. Rosies House. Late Autumn, Early Night
 // First interaction with Rosies Dad
 
-// Brightest night roof scene
 EXT. Rosies Roof. Late Autumn, Night
 The four kids are sitting side by side on a roof looking up at the sky.
 Like a moon so large it nearly fills the entire sky, a great glowing city is floating in the atmosephere. 
@@ -79,11 +78,7 @@ Atlas: * makes a frusterated expression at Zenon but backs down *
 Chloe: (flustered) * remains standing *
 Zenon: * standing * "I know we are all nervous, but lets try to get some sleep."
 Zenon: * helps rosie up * "We will wake up fine in the morning. just like always"
-/*
-	Slightly better than the dialogue yesterday.
-*/
 
-// Darkest night sequence
 EXT. Just outside the barrier. Beginning of Darkest Night
 Flakes of snow are beginning to fall.
 The knight reaches the top of a hill overlooking the town.
@@ -115,6 +110,67 @@ From the silloutettes of the shadows, a large creature takes form.
 Cut to a straight on shot behind the creature centered in front of the door.
 The hairy creature is shaped like a wolf and a bear, with the posure of a hunched man.
 Balancing on thick hind legs, the long arms take awkward supporting positions on the walls.
-Using a long clawed finger, the creature cuts the lock on the door, and pushes inside.
-The creatures face (obscured) is somehow illuminating the dark room with a flickering red light.
+Using a long clawed finger, the creature slices the lock on the door, and pushes inside.
+The creatures face (obscured) is somehow illuminating the dark entry way with a flickering red light.
 A woman screams and sobs inside the house, and suddenly, the shadows bolt out the door and back down the street.
+
+(INT) IN ROSIES BEDROOM
+Rosies bedroom has flowers painted on the walls, and candles illumitating the space.
+Rosie is sitting in bed sobbing, and her dad is sitting on the edge of the bed, holding her.
+
+(INT) IN ZENONS AND ATLAS' BEDROOM
+The boys bedroom is dark, and there is barely enough light to see.
+Camera focuses on Zenon, who is laying in bed with his eyes open.
+Screaming and weeping can be heard outside.
+A loud sound makes Zenon flinch
+Fade cut. Light is now streaming in through the window, and Zenon wakes up.
+Zenon sits up blinking
+Zenon is shirtless, and you can see he is extremely thin, with a few scars on his chest.
+
+OUTSIDE THE DISTRICT
+The knight stands up from under the tree, and puts his helmet back on.
+A wide shot shows the town is covered in a blanket of snow
+The knight starts walking back towards the town
+
+BACK IN ZENONS ROOM
+Zenon looks over at Atlas' bed , and sees it is empty.
+He jumps up, and runs to the door
+
+IN THE HALL
+Zenon opens the door and runs into Atlas walking towards their room.
+Atlas: oh, I was coming to wake you up. are you coming?
+Zenon: (confused, releived) what?
+Atlas: (assuming this to be obvious) to the square?
+Zenon: (somber) oh, right
+Atlas: its best to go. the mayor also has something to say afterwards
+The boys turn, and walk towards the door side by side
+
+IN THE STREET OUSIDE THE BOYS HOUSE
+The boys are joined by a tired looking Chloe.
+Zenon: Is Rosie coming?
+Atlas: * looks at Chloe *
+Chloe: * exhales * Probably not, she hates atonement day
+Zenon: * nods * I assumed she wouldn't
+Chloe: (almost sincere) I assumed YOU wouldn't
+Zenon: * stiffens slightly * you know it doesn't bother me so much anymore
+Chloe: * smiles faintly, and shrugs *
+They walk in silence until they reach the town square
+
+IN THE TOWN SQUARE
+The square is filled with people. Maybe half what was there during the celebration.
+All the tables are gone, but the barrels are still around.
+Beneath a beam extending from the tower, 16 of these are lined up in a row, each with a person standing on top.
+Some men, some women, and even a couple children, all with ropes around their necks, fastened to the beam above.
+Although most of them show signs of having cried recently, they are all silent now, standing with heads held high.
+The mayor walks out of the crowd, and stands before the people.
+The mayor is a big man, with a thick beard, and a booming voice.
+Mayor: (loudly) * gesturing towards the poeople on barrels * These are those who were chosen last night.
+Mayor: By no weakness were they chosen. The strong have chosen to atone this day, and not some other.
+One by one, the mayor walks down the line, kicking the barrels out from under each person.
+Not one of them makes a sound as they fall.
+Mayor: (In a shout) By their sacrifice, we're saved again from Darkest Night.
+The crowd: (in unison) By their sacrifice, we're saved again from Darkest Night.
+There is a moment of silence
+Mayor: (much less formally) For 10 years I have lived here, and twice each year I have seen this sight.
+Mayor: Friends, family, loved ones, all taken from us. At the hands of WITCHES.
+The last word was shouted, and the sound echoes through the square.
