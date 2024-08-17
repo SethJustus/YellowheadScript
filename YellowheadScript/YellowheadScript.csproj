@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Characters\" />
     <Folder Include="Season 1\Episode 2\" />
   </ItemGroup>
 
