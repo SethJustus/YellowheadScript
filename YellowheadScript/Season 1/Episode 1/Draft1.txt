@@ -54,9 +54,6 @@ Zenon: Maybe, but there is no way to know for sure.
 	Notes so far: my pacing is WAY to fast, dialogue is clunky and contrived, the actual early events are boring.
 */
 
-INT. Rosies House. Late Autumn, Early Night
-// First interaction with Rosies Dad
-
 EXT. Rosies Roof. Late Autumn, Night
 The four kids are sitting side by side on a roof looking up at the sky.
 Like a moon so large it nearly fills the entire sky, a great glowing city is floating in the atmosephere. 
@@ -201,3 +198,35 @@ Zenon and Chloe both look excited
 The mayor quiets the crowd
 Mayor: (loudly) We have six months before the beast returns, and we will be ready
 Mayor: These alchemists will hand pick who they want fighting beside them, so be sure they see your best in the following weeks
+
+AT THE EDGE OF TOWN
+Atlas, Zenon, Chloe, and Rosie are walking down the street, talking excitedly
+Atlas: With three alchemists, we stand a real chance!
+Rosie: * smiles up at Chloe * Not just three!
+Chloe: * puffs up with pride * I'm not a REAL alchemist
+Chloe leads them into an allyway
+Zenon: How can we get chosen for the Purger?
+Atlas: * shrugs * We just have to show them how strong we are!
+The allyway turns to a well trodden trail into the forest
+Rosie: I can't beleive they are actually going to kill it!
+
+OUT IN THE FOREST
+A shot shows the four kids walking up a trail towards the camera.
+In the foreground is an open field, in the background is a building just in the forest edge.
+The building is cobbled together from sticks, logs, mud, thatch, stones, and a few planks and boards.
+A thick blanket acts as the door, and a few windows are covered with cloth.
+Chloe ducks under the blanket, and the others follow.
+
+INSIDE CHLOES HOUSE
+The house is a single room, suprisingly homey, with a firepit in the center.
+A bed of straw and blankets is in one corner, and a handmade desk with a log as a chair is in another.
+On the desk is all manner of papers, sketches, jars, and bowls
+Chloe, Atlas, and Zenon each grab a stick leaning up by the door, and make to go back outside.
+Rosie: Chloe, can you open the chimney? I want to make a fire.
+Chloe pushes a board off the roof over the firepit, opening a hole in the ceiling
+Rosie: * smiles * Thanks!
+
+OUTSIDE THE HOUSE
+Chloe ducks out, and joins Atlas and Zenon in the field.
+Smoke starts rising from the 'chimney' in the background.
+The camera rotates around the three as they assume defensive poses, holding the sticks like swords.
