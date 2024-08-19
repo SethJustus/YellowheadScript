@@ -4,4 +4,7 @@ the bargest appears in the district and chooses the same number of people as sto
 people who are chosen by the bargest are cursed to die within the next 6 months
 the people of the district are expected to output a quota of work, and if they don't, the bargest will choose double the amount
 generally speaking, the bargest doesn't kill people, just curses them, but it will kill people in self defense
-any wound the bargest inflicts will not heal, and the person will slowly bleed out
+any wound the bargest inflicts will not heal, and the person will slowly bleed out.
+A witch holds everyone in the district with a magical barrier
+the barrier only applies to people whos blood is incorporated into the spell
+When people are added to the district, they are cut, and their blood is given to the witch
