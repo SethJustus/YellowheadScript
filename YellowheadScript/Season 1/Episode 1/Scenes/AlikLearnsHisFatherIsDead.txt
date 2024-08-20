@@ -71,9 +71,16 @@ Alik turns to face him, and Kyros flinches
 Alik stands up, and Kyros jumps back, toppling his stool. The tavern goes quiet
 
 	KYROS
-	How long has it been now... 7 years? I had always assumed they had you executed, but I guess daddy would never let THAT happen.
+	I had always assumed they had you executed, but I guess daddy would never let THAT happen. How long has it been now... 7 years? 
+	You're lucky he was still alive to save you then, god rest his soul.
 
-Alik reaches for his sword, but Kyros holds up his hands
-	
+	ALIK
+	What?
+
 	KYROS
-	
+	You didn't know? Your father died not long after you left, I assumed news had reached you by now...
+
+Alik walks out of the tavern, and Kyros turns and yells after him
+
+	KYROS
+	Looks like your staying longer than expected!
