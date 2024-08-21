@@ -9,6 +9,7 @@
   <ItemGroup>
     <Folder Include="Season 1\Episode 1\Scenes\" />
     <Folder Include="Season 1\Episode 2\" />
+    <Folder Include="World Building\Weapons\" />
   </ItemGroup>
 
 </Project>
