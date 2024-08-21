@@ -4,6 +4,19 @@ The rivalry ends with them getting thrown out of the inn, where they fight in th
 The girl comes out to watch, but is obviously not impressed.
 The two become good friends.
 
+INT. TAVERN - NIGHT
+
+
+// A girl serving drinks and food catches Leons eye
+
+// Leon and Edmund progressivly take turns trying to impress the serving girl
+
+// A bouncer throws them out into the ally
+
+// They fight
+
+The door to the ally opens, and the serving girl dumps out some slop into the mud by the door.
+
 Edmund and Leon scramble out of the mud to face her.
 
 	EDMUND
@@ -12,7 +25,7 @@ Edmund and Leon scramble out of the mud to face her.
 	
 	TAVERN GIRL
 	(smiles faintly)
-	I thought you two might want to know, I'm betrothed.
+	I thought you two might want to know, I am betrothed.
 
 She spins on her heal, smiles flirtatiously over her shoulder, and slams the door.
 Leon and Edmund stand there in the rain, jaws hanging loose, for a long moment.
@@ -29,16 +42,44 @@ Edmund turns to Leon, incredulous
 	EDMUND
 	BETROTHED?!?! she can't be THAT much older then us?!
 
+Leon shoots a hatefule glare towards the window.
+
 	LEON
-	(shoots a hateful glare towards the window)
 	I'll bet shes lying about it.
 
 	EDMUND
 	(hysterical)
-	WHY?!? Shes got two HEROS trying to win her hand!
+	WHY?!? Shes got two HEROS trying to win her heart!
 
 Leon shakes his head in confusion
 
 	LEON
 	(shrugs)
 	Her loss I guess
+
+Edmund kicks the mud
+
+	EDMUND
+	(dejected)
+	Yeah.
+	
+Silence for a moment
+
+	LEON
+	Are they really not letting us back in?
+
+	EDMUND
+	(smirks)
+	Let's sneak in the back, worst they can do is throw us back out
+
+	LEON
+	(grins)
+	They can TRY! Together, we could probably whip that bouncer anyways
+
+	EDMUND
+	I must say, you are a lot stronger than you look
+
+	LEON
+	Same for you
+
+Together they walk down the allyway
