@@ -4,14 +4,41 @@ The rivalry ends with them getting thrown out of the inn, where they fight in th
 The girl comes out to watch, but is obviously not impressed.
 The two become good friends.
 
-Edmund and Leon scramble out of the mud, to face her.
+Edmund and Leon scramble out of the mud to face her.
 
 	EDMUND
 	(bows)
 	My lady
+	
+	TAVERN GIRL
+	(smiles faintly)
+	I thought you two might want to know, I'm betrothed.
+
+She spins on her heal, smiles flirtatiously over her shoulder, and slams the door.
+Leon and Edmund stand there in the rain, jaws hanging loose, for a long moment.
 
 	EDMUND
-	What. A. WHORE!
+	What. A. WHORE!!
+			 (punches wall)
+
+Edmund turns to Leon, incredulous
 
 	LEON
-	We deserve better then THAT!
+	WHAT THE HELL WAS THAT?!
+
+	EDMUND
+	BETROTHED?!?! she can't be THAT much older then us?!
+
+	LEON
+	(shoots a hateful glare towards the window)
+	I'll bet shes lying about it.
+
+	EDMUND
+	(hysterical)
+	WHY?!? Shes got two HEROS trying to win her hand!
+
+Leon shakes his head in confusion
+
+	LEON
+	(shrugs)
+	Her loss I guess
