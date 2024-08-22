@@ -57,24 +57,58 @@ MT sets his arm out on the table.
 	(loudly)
 	WHAT? YOU SCARED?
 
-Several people turn to watch as Leon and MT set up for an arm wrestle.
-They begin and Leon somehow starts winning.
-Leon pins MT to the table, and several watchers cheer.
+	LEON
+	a little
+
+Several people, including the girl turn to watch as Leon and MT set up for an arm wrestle.
+They begin and after a minute of strain Leon somehow starts winning.
+Leon pins MT to the table, and several watchers cheer and clap him on the back.
 The serving girl sets down a plate in front of Leon
 
 	SERVING GIRL
 	(smiling)
-	That was definitely unexpected
+	That was definitely unexpected, you are a LOT stronger then you look.
 
-// Leon and Edmund progressivly take turns trying to impress the serving girl
+Leon opens his mouth to say something, but she turns and moves down the table.
 
-// A bouncer throws them out into the allyway
+*** Back to the important exposition ***
 
-// They fight
+Leons drink is empty, he looks around, but the serving girl is on the far side of the room.
+Leon stands up, and starts walking in that direction.
+Edmund, who has been watching, stands up and starts walking in the same direction.
+Leon doesn't notice
+Edmund comes up behind him, and shoves him into the table the girl is serving
+Leon slams into the table, and a leg breaks off.
+Leon falls to the ground, and the entire contents of the table slide on top of him.
+Drinks and food spill everywhere, and the serving girl jumps back shocked.
+Leon sputters, stumbling to his feet, and leaps for Edmund.
+He is grabbed by a bouncer
+
+	BOUNCER
+	Time to leave
+
+Leon struggles, but the bouncer drags him to a side door.	
+Another man is dragging Edmund to the door.
+
+The boys are thrown out into the deep mud in the allyway, and the door slams shut behind them.
+
+Leon growls, lunging for Edmund, but Edmund dodges, and Leon falls face first into the mud.
+Edmund laughs, until Leon grabs his ankle, and pulls him down into the mud with him.
+Edmund kicks Leon in the face, but Leon gets a hold on his shirt, and pulls him close enough to start beating his chest and neck.
+Edmund yelps, and manages to slide out from under Leon.
+They get to their feet and square off.
+Edmund jukes left, and Leon falls for it
+Edmund gets behind Leon and gets him in a headlock. they fall backwards into the mud.
+Leon slams his full weight into Edmund again and again until Edmund loses his grip.
+Leon spins, grabs Edmund, and slams him into the wall.
+Leon punches at Edmunds face full force, but Edmund ducks, and Leon's fist slams into the bricks.
+Leon rages in frustration, and Edmund grabs his legs out from under him.
+They fall back into the mud panting for a moment.
+Leon turns to get up
 
 The door to the ally opens, and the serving girl dumps out some slop into the mud by the door.
 
-Edmund and Leon scramble out of the mud to face her.
+Edmund and Leon scramble out of the mud to face her. They are both horribly muddy, bruised, and bleeding.
 
 	EDMUND
 	(bows)
