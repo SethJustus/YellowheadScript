@@ -101,4 +101,6 @@ oil,
 coal,
 gold,
 
-Incorperating guns...
+Incorporating guns...
+Gun combat needs to feel fair, and not overpowered. Swordsmen need to feel like they have agency without being absurdly fast. 
+Wind up guns seems cool, the gun would have a spin up time, and a quick draw.
