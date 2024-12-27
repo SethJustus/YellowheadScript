@@ -7,6 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Draft 1\Season 1\Act 1\Episode 1\" />
+    <Folder Include="Draft 1\Season 1\Act 1\Episode 2\" />
+    <Folder Include="Draft 1\Season 1\Act 1\Episode 3\" />
+    <Folder Include="Draft 1\Season 1\Act 2\Episode 4\" />
+    <Folder Include="Draft 1\Season 1\Act 2\Episode 5\" />
+    <Folder Include="Draft 1\Season 1\Act 2\Episode 6\" />
+    <Folder Include="Draft 1\Season 1\Act 3\Episode 7\" />
+    <Folder Include="Draft 1\Season 1\Act 3\Episode 8\" />
+    <Folder Include="Draft 1\Season 1\Act 3\Episode 9\" />
     <Folder Include="Season 1\Episode 1\Scenes\" />
     <Folder Include="Season 1\Episode 2\" />
     <Folder Include="World Building\Weapons\" />
